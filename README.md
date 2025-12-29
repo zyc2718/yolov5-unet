@@ -3,6 +3,8 @@
 ## 项目简介
 
 工业仪表智能读数识别系统是一个基于深度学习的自动化仪表检测解决方案，能够实时识别各种指针式仪表的读数。本系统结合了YOLOv5目标检测和U-Net语义分割技术，通过创新的图像处理算法，实现了高精度、高效率的仪表读数识别。
+<img width="467" height="255" alt="image" src="https://github.com/user-attachments/assets/435d837d-a17b-4833-96e4-c1af415d6fa7" />
+
 
 ## 主要特性
 
