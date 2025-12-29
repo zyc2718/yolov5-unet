@@ -223,8 +223,7 @@ processing:
 
 ## 联系方式
 
-- 邮箱：your-email@example.com
-- 项目主页：https://github.com/yourusername/meter-reading-system
+- 邮箱：18439114132@163.com  /yjck.code@gmail.com
 
 ## 更新日志
 
